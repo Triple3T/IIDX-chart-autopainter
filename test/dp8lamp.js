@@ -1,1 +1,0 @@
-$.ajax({url:'https://p.eagate.573.jp/game/2dx/26/djdata/music/difficulty.html?difficult=7&style=1&disp=1&offset=0',type:'GET',success:function (r){var n=($(r).find('div.series-difficulty').find('td').length-1)/5;if($(r).find('div.series-difficulty').html()!==undefined){alert(n);}else n=-1;}});
