@@ -1,6 +1,6 @@
 # IIDX Chart Autopainter
 
-BEMANI 리듬게임 [비트매니아 IIDX](https://p.eagate.573.jp/game/2dx/27/)의 [서열표](http://iidx.insane.pe.kr/)를 자동으로 색칠해주는 스크립트입니다.
+BEMANI 리듬게임 [비트매니아 IIDX](https://p.eagate.573.jp/game/2dx/29/)의 [서열표](http://iidx.insane.pe.kr/)를 자동으로 색칠해주는 스크립트입니다.
 
 ## Before start
 
@@ -85,3 +85,5 @@ Safari | 작동하지 않음 | *미확인*
     - README 수정
 - 2020년 11월 21일
     - IIDX28 대응
+- 2021년 10월 20일
+    - IIDX29 대응
